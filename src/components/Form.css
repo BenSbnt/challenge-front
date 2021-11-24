@@ -1,0 +1,36 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 3%;
+    /* margin-top: 10%;
+    margin-bottom: 20%; */
+}
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.name-label {
+    margin-bottom: 5%;
+    font-weight: bold;
+    font-size: 18px;
+}
+.btn {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+    color: white; 
+    font-size: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 40%;
+    font-weight: 700; 
+    text-decoration: none; 
+    background-color: #f76c6c;
+    border-radius: 5px;
+    border-style: none; 
+}
